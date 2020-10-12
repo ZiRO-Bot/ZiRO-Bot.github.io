@@ -1,4 +1,4 @@
-# Configuration
+# Customization
 
 !!! info
     `>wizard` command will be added in the future to make it easier for user to setup ziBot.

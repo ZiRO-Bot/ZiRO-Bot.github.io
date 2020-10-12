@@ -16,5 +16,5 @@ nav:
     - ziBot: index.md
   - Getting started: 
     - Setup: getting-started.md
-    - Configuration: configuration.md
+    - Customization: customization.md
     - License: license.md
