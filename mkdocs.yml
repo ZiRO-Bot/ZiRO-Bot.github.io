@@ -1,0 +1,20 @@
+site_name: ziBot Documentation
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.superfences
+
+nav:
+  - Home: 
+    - ziBot: index.md
+  - Getting started: 
+    - Setup: getting-started.md
+    - Configuration: configuration.md
+    - License: license.md
