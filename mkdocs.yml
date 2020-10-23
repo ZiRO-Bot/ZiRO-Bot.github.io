@@ -10,6 +10,7 @@ markdown_extensions:
   - attr_list
   - def_list
   - pymdownx.superfences
+  - pymdownx.tabbed
 
 nav:
   - Home: 
@@ -18,3 +19,5 @@ nav:
     - Setup: getting-started.md
     - Customization: customization.md
     - License: license.md
+  - Commands: 
+    - Command List: commands.md
